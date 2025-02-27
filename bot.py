@@ -3,8 +3,8 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import requests
 
 # Replace with your actual bot token and DeepSeek API key
-TOKEN = '7960288096:AAEx7FuiZoQ0JJ4crM1j7D1ZMCcViJvgH3Y'
-DEEPSEEK_API_KEY = 'sk-0ac92130ed544cc398633f098860dfc5'
+TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+DEEPSEEK_API_KEY = 'YOUR_DEEPSEEK_API_KEY'
 DEEPSEEK_API_URL = 'https://api.deepseek.com/v1/chat/completions'
 
 # Replace with your Discord webhook URL
