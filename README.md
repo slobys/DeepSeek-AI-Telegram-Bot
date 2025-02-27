@@ -15,7 +15,7 @@ This is a Telegram bot that integrates with the DeepSeek API to provide chat and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Seredyon/DeepSeek-AI-Telegram-Bot.git
+git clone https://github.com/slobys/DeepSeek-AI-Telegram-Bot.git
 cd DeepSeek-AI-Telegram-Bot
 ```
 
